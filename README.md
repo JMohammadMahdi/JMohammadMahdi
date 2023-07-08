@@ -32,7 +32,7 @@ Front-End Devloper
     <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" width="36" height="36" alt="Sass" title="Sass" />
   </a>
   <a href="https://www.sqlite.org/docs.html" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/sqlite.svg" width="36" height="36" alt="Sqlite" title="Sqlite" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Sqlite-square-icon.svg" width="36" height="36" alt="Sqlite" title="Sqlite" />
   </a>
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" width="36" height="36" alt="C#" title="C#" />
