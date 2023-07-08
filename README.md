@@ -25,6 +25,12 @@ Front-End Devloper
   <a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer">
     <img src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/illustrator.svg" width="36" height="36" alt="Illustrator" title="illustrator" />
   </a>
+  <a href="https://regexr.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/361284/regex.svg" width="36" height="36" alt="Regex" title="Regex" />
+  </a>
+  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" width="36" height="36" alt="Sass" title="Sass" />
+  </a>
   <a href="https://www.sqlite.org/docs.html" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/sqlite.svg" width="36" height="36" alt="Sqlite" title="Sqlite" />
   </a>
@@ -53,5 +59,8 @@ Front-End Devloper
   </a>
   <a href="https://www.instagram.com/itmaneqom/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/instagram-2016-5.svg" width="34" height="34" alt="Instagram" title="Instagram" />
+  </a>
+  <a href="https://t.me/iTmaneQom" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/telegram-1.svg" width="34" height="34" alt="Telegram" title="Telegram" />
   </a>
 </p>
