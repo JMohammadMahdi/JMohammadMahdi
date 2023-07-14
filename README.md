@@ -19,12 +19,6 @@ Front-End Devloper
   <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" title="CSS3" />
   </a>
-  <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer">
-    <img src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/photoshop.svg" width="36" height="36" alt="Photoshop" title="Photoshop" />
-  </a>
-  <a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer">
-    <img src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/illustrator.svg" width="36" height="36" alt="Illustrator" title="illustrator" />
-  </a>
   <a href="https://regexr.com/" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/361284/regex.svg" width="36" height="36" alt="Regex" title="Regex" />
   </a>
@@ -45,6 +39,15 @@ Front-End Devloper
   </a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" width="36" height="36" alt="Flask" title="Flask" />
+  </a>
+  <a href="https://www.figma.com/" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" title="Figma" style="max-width: 100%;">
+  </a>
+  <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer">
+    <img src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/photoshop.svg" width="36" height="36" alt="Photoshop" title="Photoshop" />
+  </a>
+  <a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer">
+    <img src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/illustrator.svg" width="36" height="36" alt="Illustrator" title="illustrator" />
   </a>
 </p>
 
