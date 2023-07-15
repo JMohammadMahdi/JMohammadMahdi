@@ -4,7 +4,7 @@ Hi 👋 My name is Mohammad Mahdi Jalali
 Front-End Devloper
 -----------------
 * 🌍  I'm based in Qom
-* 🧠  I'm learning JavaScript
+* 🧠  I'm learning React JS
 * ⚡  I love my Job
 
 ### Skills
