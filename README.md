@@ -1,11 +1,11 @@
 Hi 👋 My name is Mohammad Mahdi Jalali
 ================================
 
-Front-End Devloper
+Front-End Developer
 -----------------
 * 🌍  I'm based in Qom
-* 🧠  I'm learning React JS
-* ⚡  I love my Job
+* 🧠  I'm learning React Js
+* ❤️  I'm fond of my Job
 
 ### Skills
 
